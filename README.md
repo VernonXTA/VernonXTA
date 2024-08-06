@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Windows LOLBAS research**
+- 🔭 I’m currently working on **Windows LOLBAS research, Advanced DFIR Implementation Techniques.**
 
 - 🌱 I’m currently learning **CompTIA Security+, AWS.**
 
