@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **bontewonte@gmail.com**
 
-- ⚡ Fun fact **I love cats**
+- ⚡ Fun fact **I love cartoons and animated movies!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
